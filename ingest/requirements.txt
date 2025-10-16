@@ -1,0 +1,4 @@
+python-dotenv
+fastembed
+azure-search-documents==11.4.0
+PyMuPDF

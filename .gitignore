@@ -1,0 +1,14 @@
+# Secrets
+api/.env
+
+# Virtual environments
+.venv/
+venv/
+
+# Local data
+ingest/data/
+
+
+
+ingest/data/*
+!ingest/data/.gitkeep
